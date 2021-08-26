@@ -1,0 +1,52 @@
+body{
+	background-color: orange;
+}
+h1{
+	color:#630FB8;
+	font-size: 35px;
+}
+
+p{
+	margin-left: 122px;
+	text-align: center;
+	font-size: 40px;
+	line-height: 1.6;
+	font-weight: bold;
+}
+.c1
+{
+	background-color: red;
+	color:blue;
+	text-transform: uppercase;
+	letter-spacing: 0.2cm;
+	word-spacing: 1em;
+	border: black 5px solid;
+	padding:20px;
+}
+.container{
+	width: 60%;
+	margin: auto;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: green;
+}
+a:visited{
+	color:blue;
+}
+.c5{
+	font-weight: bold;
+	font-size: 30px;
+	border:1px red solid;
+	border-radius: 15px;
+	margin:auto;
+
+}
+.c4 li{
+	padding-bottom: 5px;
+}
